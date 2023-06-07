@@ -28,7 +28,7 @@ To run the code, you will need all included packages. Generated Letters of Recom
 Data saved in CSV file for future use".
 
 # Configuration:
-No Configuration needed
+Need to add own openai api key if generating own letters of recommendation.
 
 # Documentation:
 To better understand the United States Census data, name_data_explaination.pdf is included for clarification on how the ethnicity proportions were calculated.
